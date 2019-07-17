@@ -5,7 +5,7 @@ Black Agenda Radio<br>
 
 News, analysis and commentary on the human condition from an African American point of view.<br>
 
-To install this addon, either use the Kodi Github installer addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access. Then on the Kodi, go to addons > install from zip file.<br>
+^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
 <a href="https://www.blackagendareport.com/">Black Agenda Radio</a><br>
 
