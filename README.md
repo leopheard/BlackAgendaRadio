@@ -10,3 +10,4 @@ News, analysis and commentary on the human condition from an African American po
 <a href="https://www.blackagendareport.com/">Black Agenda Radio</a><br>
 
 <a href="https://www.blackagendareport.com/"><img src="https://popularresistance-uploads.s3.amazonaws.com/uploads/2018/12/black-agenda2.jpg">
+<br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
