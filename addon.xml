@@ -17,16 +17,16 @@
     <description lang="en">Welcome to the radio magazine that brings you news, commentary and analysis from a Black Left perspective. I’m Glen Ford, along with my co-host Nellie Bailey. News, analysis and commentary on the human condition from an African American point of view.</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
-    <email>leopheard@protonmail.com</email>
-    <source>https://github.com/leopheard/blackagendaradio.git</source>
+    <email>leopheard@gmail.com</email>
+    <source>https://github.com/leopheard/blackagendaradio</source>
     <website>https://popularresistance.org/prpn/</website>
     <audio_guide></audio_guide>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
-			<fanart>resources/media/fanart.jpg</fanart>
-			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/1.jpg</screenshot>
+			<fanart>resources/media/icon.jpg</fanart>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
